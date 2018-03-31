@@ -16,6 +16,6 @@ public class PracticeB {
             }
         }
 
-        return null;
+        return result;
     }
 }
